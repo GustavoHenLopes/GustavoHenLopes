@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bem vindo ao meu perfil!
 
 <div>
    <a href="https://github.com/GustavoHenLopes">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Se quiser entrar em contato comigo, é só mandar mensagem nas redes sociais abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@jpai37" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
